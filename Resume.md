@@ -17,7 +17,7 @@ Android / ios를 공부하고 있는 직장인입니다.
 
 경력
 ---
-1. Honeywell Analytics(internship) - Software engineer
+**1. Honeywell Analytics(internship) - Software engineer**
 * 기간 : 2018년 11월 ~ 2019년 05월 - 7개월
 - 업무내용
     - Sensepoint(INCOM) Gas Detector Development
@@ -39,5 +39,5 @@ Android / ios를 공부하고 있는 직장인입니다.
       + INCOM communication Tester 를 이용한 XCL / XRL Firmware 업데이트 작업
       + Certificate updater 프로그램을 이용한 Activation key 주입 test
 ---------------------------------------
-2. 현대IT&E (운영지원사업부 그린푸드팀) - 모바일
+**2. 현대IT&E (운영지원사업부 그린푸드팀) - 모바일**
 * 기간 : 2019년 6월 - 현재
