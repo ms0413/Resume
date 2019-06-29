@@ -1,4 +1,4 @@
-![minseung](https://user-images.githubusercontent.com/20083628/60384239-62926f00-9ab6-11e9-968c-289a2f957921.jpg)
+<img src="![minseung](https://user-images.githubusercontent.com/20083628/60384239-62926f00-9ab6-11e9-968c-289a2f957921.jpg)" width="100">
 
 양민승
 ====
